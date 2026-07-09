@@ -13,7 +13,7 @@ const mime = {
 
 http.createServer((req, res) => {
   let urlPath = decodeURIComponent(req.url.split('?')[0]);
-  let filePath = path.join(root, urlPath);
+  let filePath = path.join(root, '.' + urlPath);
   if (urlPath.endsWith('/')) filePath = path.join(filePath, 'index.html');
 
   fs.stat(filePath, (err, stats) => {
