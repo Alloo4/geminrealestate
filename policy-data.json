@@ -1,0 +1,164 @@
+{
+  "updated": "January 21, 2025",
+  "sections": [
+    {
+      "id": "overview",
+      "kicker": "Overview",
+      "title": "Who we are & what this notice covers",
+      "blocks": [
+        { "t": "p", "text": "This Privacy Notice for Gem In Real Estate Consulting LLC (doing business as GIREC) — \"we,\" \"us,\" or \"our\" — describes how and why we might access, collect, store, use, and share your personal information when you visit geminreconsulting.com, use our real estate consulting services — including fix & flip consulting, lending partner referrals, and joint venture introductions — or engage with us in sales, marketing, or events." },
+        { "t": "p", "text": "Questions or concerns? Reading this notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our services. You can reach us any time at geminrealestate@gmail.com." }
+      ]
+    },
+    {
+      "id": "s1",
+      "kicker": "Section 01",
+      "title": "What information do we collect?",
+      "blocks": [
+        { "t": "p", "text": "We collect personal information that you voluntarily provide when you express interest in our services, participate in activities on our platform, or contact us. This may include:" },
+        { "t": "list", "items": ["Names", "Phone numbers", "Email addresses", "Mailing and billing addresses", "Job titles", "Contact preferences"] },
+        { "t": "h", "text": "Sensitive information" },
+        { "t": "p", "text": "When necessary, with your consent or as otherwise permitted by applicable law, we may process financial data and creditworthiness data." },
+        { "t": "h", "text": "Social media & application data" },
+        { "t": "p", "text": "If you register using a social media account, we collect certain profile information from that provider (see Section 05). If you use our applications and grant permission, we may collect geolocation information; you can change this access in your device settings. All personal information you provide must be true, complete, and accurate, and you must notify us of any changes." }
+      ]
+    },
+    {
+      "id": "s2",
+      "kicker": "Section 02",
+      "title": "How do we process your information?",
+      "blocks": [
+        { "t": "p", "text": "We process your personal information for a variety of reasons depending on how you interact with our services, including:" },
+        { "t": "list", "items": ["To deliver and facilitate the services you request", "To respond to inquiries and offer support", "To fulfill and manage orders and payments", "To request feedback about our services", "To send marketing communications, per your preferences — you can opt out at any time", "To deliver personalized content and advertising", "To post testimonials, which may contain personal information", "To keep our services safe, including fraud monitoring and prevention", "To comply with legal obligations and defend our legal rights"] }
+      ]
+    },
+    {
+      "id": "s3",
+      "kicker": "Section 03",
+      "title": "What legal bases do we rely on?",
+      "blocks": [
+        { "t": "p", "text": "We only process your personal information when we believe it is necessary and we have a valid legal basis to do so under applicable law — with your consent, to comply with laws, to fulfill contractual obligations, to protect your rights, or to fulfill legitimate business interests." },
+        { "t": "p", "text": "If you are located in Canada: we may process your information with your express or implied consent, and you may withdraw consent at any time. In limited exceptional cases — such as fraud investigations, business transactions meeting certain conditions, legal compliance with a subpoena or court order, or where information is publicly available — we may be legally permitted to process information without consent." }
+      ]
+    },
+    {
+      "id": "s4",
+      "kicker": "Section 04",
+      "title": "When and with whom do we share information?",
+      "blocks": [
+        { "t": "p", "text": "We do not sell your data. We only share personal information in specific situations:" },
+        { "t": "list", "items": ["Business transfers — in connection with any merger, sale of company assets, financing, or acquisition of all or part of our business", "Legal requirements — where required by law, subpoena, or to protect the rights, property, or safety of GIREC or others", "Lending and referral partners — as part of our core service, we may share relevant deal information with potential lending or joint venture partners in our network, solely to facilitate the services you requested"] }
+      ]
+    },
+    {
+      "id": "s5",
+      "kicker": "Section 05",
+      "title": "How do we handle your social logins?",
+      "blocks": [
+        { "t": "p", "text": "If you register or log in using a third-party social media account (like Facebook or X), we receive certain profile information from that provider — often your name, email address, friends list, and profile picture, plus other information you choose to make public. We use this information only for the purposes described in this notice. We do not control, and are not responsible for, other uses of your personal information by your social media provider." }
+      ]
+    },
+    {
+      "id": "s6",
+      "kicker": "Section 06",
+      "title": "How long do we keep your information?",
+      "blocks": [
+        { "t": "p", "text": "We keep your personal information only as long as necessary for the purposes set out in this notice, unless a longer retention period is required or permitted by law (such as tax or accounting requirements). When we have no ongoing legitimate business need, we will delete or anonymize it — or, if that is not possible, securely store it and isolate it from further processing until deletion is possible." }
+      ]
+    },
+    {
+      "id": "s7",
+      "kicker": "Section 07",
+      "title": "How do we keep your information safe?",
+      "blocks": [
+        { "t": "p", "text": "We have implemented appropriate and reasonable technical and organizational security measures designed to protect any personal information we process. However, no electronic transmission or storage technology can be guaranteed 100% secure, and transmission of personal information to and from our services is at your own risk." }
+      ]
+    },
+    {
+      "id": "s8",
+      "kicker": "Section 08",
+      "title": "Do we collect information from minors?",
+      "blocks": [
+        { "t": "p", "text": "We do not knowingly solicit data from or market to children under 18. By using our services, you represent that you are at least 18, or that you are the parent or guardian of a minor and consent to their use. If we learn that we have collected information from users under 18, we will deactivate the account and promptly delete the data. Contact us at geminrealestate@gmail.com if you become aware of any such data." }
+      ]
+    },
+    {
+      "id": "s9",
+      "kicker": "Section 09",
+      "title": "What are your privacy rights?",
+      "blocks": [
+        { "t": "p", "text": "Depending on where you live, applicable privacy law may give you rights regarding your personal information, including the right to:" },
+        { "t": "list", "items": ["Request access to and obtain a copy of your personal information", "Request rectification or erasure", "Restrict the processing of your personal information", "Data portability, where applicable", "Not be subject to automated decision-making"] },
+        { "t": "p", "text": "If we rely on your consent, you may withdraw it at any time; withdrawal does not affect prior lawful processing. You can unsubscribe from marketing emails via the link in any email or by contacting us directly. To exercise any right, email geminrealestate@gmail.com — we will act on all valid requests per applicable law." }
+      ]
+    },
+    {
+      "id": "s10",
+      "kicker": "Section 10",
+      "title": "Controls for do-not-track features",
+      "blocks": [
+        { "t": "p", "text": "Most browsers and some mobile operating systems include a Do-Not-Track (\"DNT\") setting. No uniform technology standard for recognizing DNT signals has been finalized, so we do not currently respond to them. If a standard is adopted that we must follow, we will inform you in a revised version of this notice." }
+      ]
+    },
+    {
+      "id": "s11",
+      "kicker": "Section 11",
+      "title": "Do US residents have specific privacy rights?",
+      "blocks": [
+        { "t": "p", "text": "Depending on your state, you may have additional rights. States with specific consumer privacy laws include California, Colorado, Connecticut, Utah, and Virginia, among others. Residents may have the right to know, the right to delete, the right to opt out of the sale of personal information, and the right to non-discrimination for exercising these rights. To exercise any of them, contact geminrealestate@gmail.com." }
+      ]
+    },
+    {
+      "id": "s12",
+      "kicker": "Section 12",
+      "title": "Terms & conditions",
+      "blocks": [
+        { "t": "h", "text": "Nature of services" },
+        { "t": "p", "text": "GIREC is not a lender. We are a consulting and referral service that connects real estate investors with potential lending partners and other real estate associates in our network. Introductions or referrals do not constitute a guarantee of funding, a loan commitment, or a financial advisory relationship." },
+        { "t": "h", "text": "No guarantee of results" },
+        { "t": "p", "text": "GIREC makes no representation or warranty that any introduction will result in a completed transaction, approved loan, or successful investment. All lending decisions are made independently by the referred lender or partner." },
+        { "t": "h", "text": "User responsibilities" },
+        { "t": "list", "items": ["All information you submit to GIREC must be accurate, complete, and current", "You agree not to use our services for any unlawful purpose", "You are responsible for your own due diligence on any lender, partner, or transaction", "Real estate investing involves financial risk; past results do not guarantee future outcomes"] },
+        { "t": "h", "text": "Intellectual property" },
+        { "t": "p", "text": "All content on this website — text, graphics, logos, and design — is the property of GIREC and may not be reproduced, distributed, or used without written permission." },
+        { "t": "h", "text": "Limitation of liability" },
+        { "t": "p", "text": "To the maximum extent permitted by law, GIREC shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your use of our services or reliance on any referral or introduction made by GIREC." },
+        { "t": "h", "text": "Governing law" },
+        { "t": "p", "text": "These terms are governed by the laws of the United States. Disputes shall be resolved through binding arbitration or in the appropriate courts of jurisdiction." }
+      ]
+    },
+    {
+      "id": "s13",
+      "kicker": "Section 13",
+      "title": "SMS terms & conditions",
+      "blocks": [
+        { "t": "p", "text": "By providing your phone number and opting in to SMS communications from GIREC, you agree to the following:" },
+        { "t": "list", "items": ["You consent to receive texts related to your deal submission, service updates, and relevant real estate information", "Message frequency may vary based on your interaction with our services", "Message and data rates may apply depending on your carrier plan", "Reply STOP to any message to opt out — you will receive a confirmation and be removed from our list", "Reply HELP for assistance, or contact geminrealestate@gmail.com", "We do not sell or share your phone number with third parties for their marketing", "Carriers are not liable for delayed or undelivered messages"] }
+      ]
+    },
+    {
+      "id": "s14",
+      "kicker": "Section 14",
+      "title": "Do we make updates to this notice?",
+      "blocks": [
+        { "t": "p", "text": "We may update this Privacy Notice from time to time; the updated version will be indicated by a revised \"Last updated\" date. If we make material changes, we may notify you by prominently posting a notice or by sending you a direct notification. We encourage you to review this notice frequently." }
+      ]
+    },
+    {
+      "id": "s15",
+      "kicker": "Section 15",
+      "title": "How can you contact us?",
+      "blocks": [
+        { "t": "p", "text": "Gem In Real Estate Consulting LLC (GIREC) · Email: geminrealestate@gmail.com · Website: geminreconsulting.com" }
+      ]
+    },
+    {
+      "id": "s16",
+      "kicker": "Section 16",
+      "title": "How can you review, update, or delete your data?",
+      "blocks": [
+        { "t": "p", "text": "Based on the applicable laws of your country or state, you may have the right to request access to the personal information we collect, details about how we have processed it, correction of inaccuracies, or deletion. To make a request, email geminrealestate@gmail.com — we will respond within the timeframe required by applicable law." }
+      ]
+    }
+  ]
+}
