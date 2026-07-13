@@ -2,6 +2,7 @@
   "version": 2,
   "builds": [
     { "src": "index.html", "use": "@vercel/static" },
+    { "src": "policy-data.json", "use": "@vercel/static" },
     { "src": "pml-terms/**", "use": "@vercel/static" },
     { "src": "policy/**", "use": "@vercel/static" },
     { "src": "private-money-loans/**", "use": "@vercel/static" },
