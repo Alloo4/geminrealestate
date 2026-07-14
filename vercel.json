@@ -11,5 +11,9 @@
     { "src": "transactional-funding/**", "use": "@vercel/static" },
     { "src": "transactional-lending/**", "use": "@vercel/static" },
     { "src": "assets/**", "use": "@vercel/static" }
+  ],
+  "redirects": [
+    { "source": "/transactional-lending", "destination": "/transactional-funding/", "permanent": true },
+    { "source": "/transactional-lending/", "destination": "/transactional-funding/", "permanent": true }
   ]
 }
